@@ -112,7 +112,7 @@ http://localhost:8080/studentmanager/ListStudentServlet.do
 
 ## 🔗 GitHub 仓库地址
 
-> 📍 项目主页：https://github.com/example/studentmanager
+> 📍 项目主页：https://github.com/WWW2828/student
 
 ------
 
