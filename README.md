@@ -48,9 +48,6 @@ StudentManager/
  ├── lib/                     # mysql-connector 和 POI Jar 包
  └── README.md
 
-```
----
-
 ## ⚙️ 环境部署步骤
 
 ### 📌 1. 数据库初始化
